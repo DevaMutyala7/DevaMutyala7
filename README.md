@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevaMutyala7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Development roles
+- 👀 I’m interested in Full stack Development
+- 🌱 I’m currently learning backend technologies
+- 💞️ Love working with Javascript and it's frameworks
 - 📫 How to reach me : devateja58@gmail.com
 
 <!---
